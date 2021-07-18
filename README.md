@@ -1,2 +1,2 @@
-# LinearPredictQualityWine
+# Practice
 torch.nn
